@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bas
 echo "The school is so cool!"
-=======
-#!/bin/bash
-echo "The shool is open"
->>>>>>> update_script
